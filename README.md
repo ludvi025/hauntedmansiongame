@@ -18,7 +18,7 @@ I. Introduction
 Game Environment
 ----------------
 > 2D, side-view, platformer
-> 4 - 8 people in a game
+> 4 - 8 people in a game 
 > 5 - 15 minutes
 
 Game Objectives
@@ -78,3 +78,34 @@ Two-sided Map
 > One that shows only the secret passages you've discovered
 > While in one map, you can't see/hear anything going on in the other
 > Visually, the map will flip or rotate when entering/exiting a secret passage
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+08/06/2013 Dr.Capellini
+----------------------------------------------------------------------------------------------------------------------------------------------
+>game mode: team cooperatoin, survive
+>Game Evaluation
+           *Interest: 
+           *Originality: assemble weapon system, two-sided map
+           *Graphics: undecidied 2D (gunpoint is an example)
+           *Sound:
+           *Balance:
+           #improvement plan : a) add upgrade system (weapons, skills) ---> interest
+                                                           b) add characters with special abilities (Cyborg, Engineer, Scientist, Assasin,Prostitute ....... ) ----> interest, originality
+                                                           c) use sound as a communication media between players and game (you can locate your opposites just by listening) ----> interest, originality, sound
+>Game story Background (give some philosophy in this part)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -79,9 +79,6 @@ Two-sided Map
 > While in one map, you can't see/hear anything going on in the other
 > Visually, the map will flip or rotate when entering/exiting a secret passage
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-08/06/2013 Dr.Capellini
-----------------------------------------------------------------------------------------------------------------------------------------------
 >game mode: team cooperatoin, survive
 >Game Evaluation
            *Interest: 

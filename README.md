@@ -1,6 +1,8 @@
 "Haunted House" Game
 ====================
 
+Designer: Adam Ludvik & Hanlin Zhu(Dr.Capellini)
+
 -----------------
 Table of Contents
 -----------------
